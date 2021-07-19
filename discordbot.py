@@ -5,7 +5,7 @@ import random as rand
 from discord.ext import commands
 
 client = commands.Bot(command_prefix = '.')
-token = 'ODQzNTUzNDQwOTQ4NDIwNjA5.YKFiXA.EVSkFKZuqblzMKHTRV3Np3MYc4o'
+token = '******.*************.****************************'
 os.chdir('C:\Storage A\BOT')
 
 #-------------------------- LEVEL --------------------------------------
